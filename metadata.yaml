@@ -1,4 +1,8 @@
 _repo: The-German-Pirate-His-Methods-and-Record_50865
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50865-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50865#The-German-Pirate-His-Methods-and-Record
 gutenberg_issued: '2016-01-07'
 gutenberg_type: Text
 identifiers:
